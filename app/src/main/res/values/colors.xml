@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#bf00ff</color>
+    <color name="purple_500">#9c27b0</color>
+    <color name="purple_700">#7b1fa2</color>
+    <color name="white">#ffffff</color>
+    <color name="teal_200">#03dac5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="grey">#999999</color>
+
+    <!--  theme  -->
+    <color name="my_light_primary">#07E7EF</color>
+
+    <color name="verylightaqua">#BEEAEC</color>
+    <color name="lightaqua">#97E9EC</color>
+    <color name="aqua">#60E5EA</color>
+    <color name="darkaqua">#33E6ED</color>
+    <color name="verydarkaqua">#07E7EF</color>
+    <color name="defaultIconColor">#F6F6F6</color>
+    <color name="circleColor">#FFFFFF</color>
+    <color name="shadowColor">#CDCDCD</color>
+</resources>

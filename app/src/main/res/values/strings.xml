@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">10122701_myselfapps</string>
+    <string name="namahead">Aliyan Mandhalika</string>
+    <string name="nimhead">10122701</string>
+    <string name="title_aboutme">About Me</string>
+    <string name="title_contactme">Contact Me</string>
+    <string name="phone">+6287741135698</string>
+    <string name="about"> About App</string>
+    <string name="aboutme">Hello, my name is Aliyan Mandhalika. I am an aspiring to become a successful programmer. Since my childhood, I have been interested in the world of technology and software development, and I believe that becoming a programmer is the right path to fulfill this dream.</string>
+    <string name="namalengkap">Name : Aliyan Mandhalika</string>
+    <string name="nim">NIM : 10122701</string>
+    <string name="kelas">Class : IF-9</string>
+    <string name="jeniskelamin">Gender : Male</string>
+    <string name="ttl">PDB : Bandung, 8 september 2002</string>
+    <string name="hobi">Hobby : Badminton</string>
+    <string name="citacita">Ambition : Programming</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
